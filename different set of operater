@@ -1,0 +1,11 @@
+# python program for different set of operater
+E={0,1,2,3,4}
+N={2,4,5,6,8}
+print("union of two set")
+print(E|N)
+print("intersection of two set")
+print(E&N)
+print("difference of two set")
+print(E-N)
+print("symmetric defference of two set")
+print(E^N)
